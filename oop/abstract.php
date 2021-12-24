@@ -1,4 +1,5 @@
 <?php
+//PHP 抽象类与接口（上）
 abstract class Car
 {
     protected $brand;
